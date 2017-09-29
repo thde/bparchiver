@@ -1,0 +1,10 @@
+{
+  "name": "bparchiver",
+  "version": "0.0.1",
+  "main": "bparchiver.js",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^2.10.0",
+    "readline-sync": "^1.4.7"
+  }
+}
